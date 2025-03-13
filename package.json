@@ -1,5 +1,5 @@
 {
-  "name": "@ysd/prettier-sort-imports",
+  "name": "@Lynn-Bin/prettier-sort-imports",
   "version": "1.0.0",
   "description": "A prettier plugins to sort imports in provided RegEx order",
   "main": "lib/src/index.js",
@@ -24,9 +24,8 @@
     "javascript"
   ],
   "author": {
-    "name": "Ayush Sharma",
-    "email": "ayush.sharma@trivago.com",
-    "url": "https://github.com/ayusharma"
+    "name": "Lynn-Bin",
+    "url": "https://github.com/Lynn-Bin"
   },
   "license": "Apache-2.0",
   "dependencies": {

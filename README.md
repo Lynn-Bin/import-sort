@@ -20,7 +20,7 @@ npm install --save-dev @Lynn-Bin/import-sort
 or, using yarn
 
 ```shell script
-yarn add --dev @trivago/prettier-plugin-sort-imports
+yarn add --dev @Lynn-Bin/import-sort
 ```
 
 ### Usage
