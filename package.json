@@ -4,10 +4,10 @@
   "description": "A prettier plugins to sort imports in provided RegEx order",
   "main": "lib/src/index.js",
   "repository": {
-    "url": "https://github.com/trivago/prettier-plugin-sort-imports",
+    "url": "https://github.com/Lynn-Bin/import-sort",
     "type": "git"
   },
-  "homepage": "https://github.com/trivago/prettier-plugin-sort-imports#readme",
+  "homepage": "https://github.com/Lynn-Bin/import-sort#readme",
   "scripts": {
     "compile": "tsc",
     "example": "prettier --config .prettierrc --plugin lib/src/index.js",
